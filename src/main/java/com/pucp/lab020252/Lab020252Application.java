@@ -15,6 +15,6 @@ public class Lab020252Application {
         for (String elemento : lista) {
             System.out.println("elemento:" + elemento);
         }
-        System.out.println("Fin del programa");
+        System.out.println("API DISTITA");
 	}
 }
